@@ -1,0 +1,26 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+.jumbotron {
+    background-color:transparent !important; 
+}
+.nav a{
+	font-size: 1.4em !important;
+}
+.big-banner {
+	background:url('../img/list.svg') no-repeat !important;
+  	padding-top:100px;
+  	background-size:cover;
+}
+.content{
+	position:relative;
+	padding:20px;
+}
